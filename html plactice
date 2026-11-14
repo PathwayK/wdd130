@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gasten | WDD 130</title>
+    <meta name="description" content="Gasten's personal homepage for WDD 130 - Web Fundamentals. Learn about Gasten from Lilongwe, Malawi.">
+    <meta name="author" content="Gasten">
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body background="images/profile.jpg">
+    <header>
+        <nav>
+            <a href="#">Home</a>
+            <a href="wwr/">Rafting Website</a>
+            <a href="wwr/site-plan-rafting.html">Rafting Site Plan</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Gasten | WDD 130</h1>
+        <img src="images/profile.jpg" alt="Hell0, my name is gasten">
+        <p>Hello! My name is Gasten and I am from Lilongwe, Malawi. I am studying Web Development through BYU-Pathway Worldwide. I enjoy learning new technology, working with computers, and building websites. I am excited to learn HTML and CSS in WDD 130 and to build my own personal websit.</p>
+    </main>
+    <aside>
+        <h2>Malawi</h2>
+       <img src="images/salt-lake-temple.jpg"width=150 height=150 >
+        <p>Malawi is a country in southeastern Africa, known as the Warm Heart of Africa. Lilongwe is the capital city. Malawi is famous for Lake Malawi, friendly people, and beautiful landscapes.</p>
+    </aside>
+    <h3>Lilongwe</h3>
+    <img src="https://afrifoodlinks.org/wp-content/uploads/2024/10/DJI_0036-Jokudu-Guya-scaled.jpg" width=150 height=150 < color = red>> 
+    <p>>Now this is Lilongwe the capital city of Malawi located in the central region of malawi <font color=red>.</p>
+    <footer>
+        <p>© 2026 🌍 Gasten 🌍 Lilongwe, Malawi</p>
+    </footer>
+</body>
+
+</html>

@@ -4,4 +4,12 @@
 input("what is your name?:")
 print("welcom Maria Kadembo to kabudula pharmacy")
 
+hypokalemia 
+beta blockers
+
+angio tessin converting enzymes 
+angio tensin 11 
+
+
+
 
